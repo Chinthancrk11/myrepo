@@ -1,3 +1,3 @@
 # myrepo
-first repository
-<br>Chinthan R K<br>St Aloysius Collage
+This is the first repository
+<br>Chinthan R K
